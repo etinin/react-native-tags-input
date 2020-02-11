@@ -1,0 +1,58 @@
+{
+  "_from": "react-native-tags-input",
+  "_id": "react-native-tags-input@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-LmgrCu64aPjjoUdclLaPAqrQ0M5yDRiWr++KVsat35L7nezQgtkoUH6JloXIUQbHmr61r/U6u+b3SduVg2XLxQ==",
+  "_location": "/react-native-tags-input",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-tags-input",
+    "name": "react-native-tags-input",
+    "escapedName": "react-native-tags-input",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-tags-input/-/react-native-tags-input-1.0.5.tgz",
+  "_shasum": "a7bffec30640629972bb9f42d13bd9147dacb721",
+  "_spec": "react-native-tags-input",
+  "_where": "C:\\Users\\lpaes\\Desktop\\AEF\\AEF-APP",
+  "author": {
+    "name": "jimmybengtsson"
+  },
+  "bugs": {
+    "url": "https://github.com/jimmybengtsson/react-native-tags-input/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "Input component for React Native to add and remove tags.",
+  "homepage": "https://github.com/jimmybengtsson/react-native-tags-input#readme",
+  "keywords": [
+    "react",
+    "native",
+    "tags",
+    "chips",
+    "input",
+    "form"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-tags-input",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmybengtsson/react-native-tags-input.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.5"
+}
